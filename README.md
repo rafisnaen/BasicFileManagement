@@ -2,7 +2,6 @@ The code above shows how to create and read files based on user input.
 The implementation of this method is for account feature.
 
 Other from account feature, this basic method is usable for saving player stats for game.
-
 Ex: Player 1 and player 2 with different progresses.
 
 How the program works ?
